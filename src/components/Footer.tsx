@@ -21,7 +21,7 @@ const Footer = () => {
           
           <div className="flex space-x-4 mb-6 md:mb-0">
             <a 
-              href="https://github.com/GitHub" 
+              href="https://github.com/pawan-30" 
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-theme-blue transition-colors p-2"
